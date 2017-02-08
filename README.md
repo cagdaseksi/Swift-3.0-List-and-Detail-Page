@@ -7,5 +7,5 @@ Swift 3.0 is a simple iOS app coded by Swift. This app basic use and implementat
 ## Screenshots
 
 
-![Swift3-List-Detail-Page](http://im.ezgif.com/tmp/ezgif.com-ed7e3727b9.gif)
+![Swift3-List-Detail-Page](http://gifhard.com/Gifs/app-swift-30-ios-2017-02-08-10-58-59-949.gif)
 
